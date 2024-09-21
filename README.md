@@ -1,42 +1,45 @@
-# House Price Prediction Project
+House Price Prediction Project
+![image](https://github.com/user-attachments/assets/b238d3de-52bd-495b-a697-385c888cd899)
 
-![Project House Price Prediction](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Machine-Learning-Project-on-House-Price-Prediction.png?fit=1280%2C720&ssl=1)
 
-Welcome to the House Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
+Welcome to the House Price Prediction Project! In this project, we leverage Data Science and Machine Learning techniques to predict house prices based on various factors.
 
----
+Project Overview
+Have you ever wondered what influences house prices in different areas? Factors such as location, property size, and number of bedrooms can all impact a property's value. Our House Price Prediction Project dives into these questions and provides accurate predictions using Machine Learning.
 
-## About the Project
+With the help of advanced models, we explore the real estate market, allowing you to gain valuable insights into house price trends.
 
-Are you curious about what drives house prices in your area? Wondering how different factors like location, square footage, or the number of bedrooms affect property values? Our House Price Prediction Project is here to provide answers.
+Key Features
+🧹 Data Preprocessing
+We have taken care of cleaning and transforming the dataset, ensuring it's ready for model training and evaluation.
 
-Through the magic of Machine Learning, we've developed models that can predict house prices with incredible precision. Our project allows you to explore, experiment, and gain insights into the intriguing world of real estate economics.
+📈 Data Visualization
+Interactive visualizations are available to help you explore how various features like location, area, and other factors influence house prices.
 
----
+🤖 Machine Learning Models
+This project utilizes a variety of cutting-edge machine learning algorithms such as:
 
-## Features
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor
+These models are designed to predict house prices with high accuracy.
 
-### 🧹 Data Preprocessing
-We've transformed and prepared the dataset, so you don't have to worry about messy data.
+📊 Model Evaluation
+We evaluate our models using performance metrics like:
 
-### 📈 Data Visualization
-Explore our interactive visualizations to gain insights into how different features impact house prices.
+Root Mean Squared Error (RMSE)
+R-squared (R²)
+Mean Absolute Error (MAE)
+These metrics help us assess how well the models predict house prices.
 
-### 🤖 Machine Learning Models
-Our project employs state-of-the-art machine learning algorithms, including the Linear Regression Model, Decision Tree Regressor, and Random Forest Regressor, to predict house prices.
+Project Setup
+To set up and run the project locally, follow these instructions:
 
-### 📊 Evaluation Metrics
-We measure model performance using a variety of metrics such as Root Mean Squared Error (RMSE), Standard Deviation, etc.
-
----
-
-## Installation
-
-Provide instructions on how to set up and run your project locally. Include any dependencies or prerequisites users need to install. Use code blocks for clarity.
-
+Prerequisites
+Ensure you have Python and the necessary libraries installed.
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadMooazam/House-Price-Prediction-Project.git
+git clone https://github.com/mohankrishna264/House-Price-Prediction.git
 ```
 
 With the project now set up, you're just a few commands away from uncovering the secrets of real estate data.
@@ -53,19 +56,6 @@ We invite you to be a part of our exciting project! To get started:-
 4) 🔀 Push to your fork: git push origin feature-name
 5) 🚀 Create a pull request.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
----
-
-Got questions or suggestions? We'd love to hear from you! Connect with us, explore the data, and start predicting house prices today. 
-
-Ready to predict the future of real estate? Let's get started!
-
 🏡 Happy predicting! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohan-krishna-kola/)
